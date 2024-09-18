@@ -42,6 +42,7 @@ Coloque links de repositórios com features que você goste envolvendo o Bluesky
 | [Quero Assistir](https://github.com/eletroswing/queroassistir) | [Link](https://github.com/eletroswing/queroassistir) | / |[@eletroswing](https://github.com/pedrofracassi) |
 | [Vampetaço](https://bsky.app/profile/k8adev.pro) | [Link](https://github.com/k8adev/bluesky-vampetaco-bot) | Use #vampetaço | [@k8adev](https://github.com/k8adev/) |
 | [Go Vagas](https://bsky.app/profile/govagas.bsky.social) |  [Link](https://github.com/wiliamvj/go-vagas) | Repost de vagas da linguagem Go |[@wiliamvj](https://github.com/wiliamvj)|
+| [Video Downloader](https://bsky.app/profile/downloader.xsky.app) | / | Bot para download dos videos com link direto | [@allanf181](https://github.com/allanf181) |
 
 ### 🧩 Extensões
 
@@ -75,6 +76,7 @@ Coloque links de repositórios com features que você goste envolvendo o Bluesky
 | [BlueCast](https://www.bluecast.app/)| / | Plataforma de stream de áudio ao vivo | / |
 | [WhiteWind](https://whtwnd.com/)| / | Plataforma de blogging | / |
 | [BlueMotion](https://www.bluemotion.app/)| / |  Plataforma de stream de vídeo | / |
+| [FxBluesky](https://xsky.app)| / | Gerador de embed para o Discord com suporte para video | [@allanf181](https://github.com/allanf181) |
 
 
 ### 🆔 Identidade
