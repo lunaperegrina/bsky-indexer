@@ -79,6 +79,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [WhiteWind](https://whtwnd.com/)| / | A blogging platform | / |
 | [BlueMotion](https://www.bluemotion.app/)| / | A video stream plataform | / |
 | [FxBluesky](https://xsky.app)| / | Discord embed generator with video support | [@allanf181](https://github.com/allanf181) |
+| [OpenPost](https://openpo.st)| [Link](https://github.com/getopenpost/openpost) | Open-source, self-hosted tool for preparing and scheduling posts to Bluesky and other social networks | [@rodrgds](https://github.com/rodrgds) |
 
 ### 🆔 Identity
 
